@@ -1,5 +1,7 @@
 # MeaSSUre:I-V
 
+![MeaSSUre_IV_logo_small](https://user-images.githubusercontent.com/42305039/214703288-c95782b6-c053-4571-8d02-b82f8ba6931f.jpg)
+
 This is a SW for electrical characterizations of transistors (FETs and BJTs) or two-terminal devices (resistors, diodes, etc.) using source-meter units (SMUs) with GUI for easy control.
 
 The latest version is v1.1.
