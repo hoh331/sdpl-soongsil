@@ -3,7 +3,7 @@
 This is a SW for electrical characterizations of transistors (FETs and BJTs) or two-terminal devices (resistors, diodes, etc.) using source-meter units (SMUs) with GUI for easy control.
 
 The latest version is v1.1.
-Download the zip file: https://github.com/hoh331/sdpl-soongsil/blob/main/MeaSSUre_IV/MeaSSUre_IV_v1_1/dist/MeaSSUre_IV_v1_1.zip
+Download the zip file: https://github.com/hoh331/sdpl-soongsil/raw/main/MeaSSUre_IV/MeaSSUre_IV_v1_1/dist/MeaSSUre_IV_v1_1.zip
 (Unzip and run "MeaSSUre_IV_v1_1.exe". No installation needed.)
 
 So far, it supports Model 2400 or 6400 SMUs.
