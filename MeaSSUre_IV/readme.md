@@ -2,9 +2,9 @@
 
 ![MeaSSUre_IV_logo_small](https://user-images.githubusercontent.com/42305039/214703288-c95782b6-c053-4571-8d02-b82f8ba6931f.jpg)
 
-Welcome to MeaSSUre:I-V, a software designed for the electrical characterization of transistors (FETs and BJTs) and two-terminal devices (resistors, diodes, etc.) using source-meter units (SMUs) with a user-friendly graphical user interface (GUI) for easy control. The latest version of the software is v1.3.
+Welcome to MeaSSUre:I-V, a software designed for the electrical characterization of transistors (FETs and BJTs) and two-terminal devices (resistors, diodes, etc.) using source-meter units (SMUs) with a user-friendly graphical user interface (GUI) for easy control. The latest version of the software is v1.4.
 
-You can download the software in a standalone exe file at https://github.com/hoh331/sdpl-soongsil/raw/main/MeaSSUre_IV/MeaSSUre_IV_v1_3/dist/MeaSSUre_IV_v1_3.exe. Simply run "MeaSSUre_IV_v1_3.exe" to use the software, no installation needed.
+You can download the software in a standalone exe file at https://github.com/hoh331/sdpl-soongsil/raw/main/MeaSSUre_IV/MeaSSUre_IV_v1_4/dist/MeaSSUre_IV_v1_4.exe. Simply run "MeaSSUre_IV_v1_4.exe" to use the software, no installation needed.
 
 Please note that for running SMUs using GPIB-USB-HS, you need the NI-488.2 driver. You can download it from NI website: https://www.ni.com/en-us/support/downloads/drivers/download.ni-488-2.html#305442
 
